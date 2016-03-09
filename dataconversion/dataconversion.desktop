@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=dataconversion
+Exec=dataconversion
+Icon=dataconversion/dataconversion.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

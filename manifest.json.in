@@ -1,0 +1,17 @@
+{
+    "name": "dataconversion.liu-xiao-guo",
+    "description": "description of dataconversion",
+    "architecture": "@CLICK_ARCH@",
+    "title": "dataconversion",
+    "hooks": {
+        "dataconversion": {
+            "apparmor": "dataconversion/dataconversion.apparmor",
+            "desktop":  "dataconversion/dataconversion.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
